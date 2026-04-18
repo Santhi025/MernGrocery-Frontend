@@ -71,9 +71,9 @@ const FruitProducts = () => {
 
   return (
     <div>
-      <div className="itemTitle">
+      {/* <div className="itemTitle">
         Category: <span>Fresh Fruits</span>
-      </div>
+      </div> */}
 
       <div className="productSection">
 

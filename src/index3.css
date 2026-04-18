@@ -863,7 +863,7 @@ gap: 0px;
 
 }
 .mobileCategories {
-  display: none;
+  display: hidden;
 }
 
 .invoiceSkeletonList {

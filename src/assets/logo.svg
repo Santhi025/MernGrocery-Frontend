@@ -1,0 +1,12 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  
+  <!-- Cart -->
+  <path d="M10 10 H25 L28 25 H12 Z" stroke="#22C55E" stroke-width="2" fill="none"/>
+  
+  <!-- Wheels -->
+  <circle cx="14" cy="30" r="2" fill="#22C55E"/>
+  <circle cx="24" cy="30" r="2" fill="#22C55E"/>
+
+  <!-- Leaf -->
+  <path d="M18 5 C22 2, 26 5, 22 10 C20 12, 18 10, 18 5Z" fill="#22C55E"/>
+</svg>

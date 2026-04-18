@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { cartUrl, imageUrl } from "../repo/api_path";
-import InvoiceSkeleton from "../skeletons/InvoiceSkeleton";
+import InvoiceSkeleton from "../skeletons/invoiceSkeleton";
 import toast from "react-hot-toast";
 import useAuthStore from "../store/useAuthStore";
 const Invoice = () => {
